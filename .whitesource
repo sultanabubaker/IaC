@@ -13,8 +13,11 @@
   "issueSettings": {
     "minSeverityLevel": "LOW",
     "displayLicenseViolations": false
+  },
+    "remediateSettings": {
+    "workflowRules": {
+      "enabled": true
+    }
   }
 }
-
-
 
